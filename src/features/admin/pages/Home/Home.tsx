@@ -3,7 +3,7 @@ export const Home = () => {
   return (
     <>
       <LateralMenu>
-        <p className="text-2xl text-center text-black m-4 ">
+        <p className="text-2xl text-center text-black m-20 ">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste,
           obcaecati officiis laboriosam minus in fugit repellendus minima
           recusandae animi, eos sint fugiat enim explicabo expedita praesentium.
